@@ -1,0 +1,9 @@
+
+    $primary-color: red;
+     $secondary-color:orange;
+    $text-color:black;
+
+body{
+    background-color: $text-color;
+    color: $secondary-color;
+}
